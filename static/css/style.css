@@ -12,6 +12,10 @@ body{
 input[type="text"]{
     width: 2%;
     padding: 3px;
+    margin-bottom: 10px;
+    background: #0a0a0a;
+    border: 1px solid gray;
+    color: white;
 }
 ul{
     padding: 0;
