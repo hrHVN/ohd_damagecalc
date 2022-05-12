@@ -6,5 +6,3 @@ honestly I don't even know if this is useful to anyone, I just made it cuz I was
 [Check it out](https://lyhryn.github.io/ohd_damagecalc/) 
 
 thanks to Goomes#7668 for the wonderful idea
-
-me: lyryhn#2790
